@@ -1,2 +1,2 @@
-**phonebook management project**
+**Phonebook Management System**
 
